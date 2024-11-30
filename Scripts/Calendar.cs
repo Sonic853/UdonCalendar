@@ -270,7 +270,6 @@ namespace Sonic853.Udon.Calendar
         public void UIDayClick()
         {
             dateTime = DateTime.Now;
-            var dayOfWeek = dateTime.DayOfWeek.ToString();
             for (var i = 0; i < dayToggles.Length; i++)
             {
                 var dayText = dayTexts[i];
