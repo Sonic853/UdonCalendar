@@ -1,0 +1,21 @@
+{
+  "name": "com.sonic853.udon.calendar",
+  "version": "1.0.0",
+  "displayName": "Sonic853 - Udon Calendar",
+  "description": "Udon 日历",
+  "unity": "2022.3",
+  "homepage": "https://github.com/Sonic853/UdonCalendar",
+  "documentationUrl": "https://github.com/Sonic853/UdonCalendar",
+  "changelogUrl": "https://github.com/Sonic853/UdonCalendar/releases",
+  "licensesUrl": "https://github.com/Sonic853/UdonCalendar/blob/master/LICENSE",
+  "license": "LGPL-3.0-or-later",
+  "keywords": [],
+  "author": {
+    "name": "Sonic853",
+    "email": "sonic853@qq.com",
+    "url": "https://github.com/Sonic853"
+  },
+  "vpmDependencies": {
+    "com.sonic853.udon.translate-manager": "1.x.x"
+  }
+}
