@@ -307,7 +307,7 @@ namespace Sonic853.Udon.Calendar
             // 根据 weekStartDay 填充数组
             for (var i = 0; i < 7; i++)
             {
-                reorderedDays[i] = DaysOfWeek[(_weekStartDay + i) % 7];
+                reorderedDays.SetValue(DaysOfWeek[(_weekStartDay + i) % 7], i);
             }
 
             return reorderedDays;
