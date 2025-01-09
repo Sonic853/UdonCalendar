@@ -2,6 +2,8 @@
 ![2024-11-30_16-34-56](https://github.com/user-attachments/assets/bd2f64d9-2351-43ab-bed3-508319e182e4)
 
 J's Legacy
+
+Demo: [853的功能屋 853's Udon Room](https://vrchat.com/home/world/wrld_fa01cb8c-766c-4f36-8360-57409866d011)
 ## License restrictions 许可限制
 Individuals or companies in Chinese Mainland (except Hong Kong China, Macau China, and Taiwan Province of China) are prohibited from using this LGPL license and using this repository and products if the following circumstances apply:
 
